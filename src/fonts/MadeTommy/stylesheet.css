@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Made Tommy";
+  src: url("MADETOMMYBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Made Tommy";
+  src: url("MADETOMMYRegular.otf") format("opentype");
+}

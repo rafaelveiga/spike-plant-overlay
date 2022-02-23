@@ -1,13 +1,30 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: "Made Tommy";
+  src: url("./fonts/MadeTommy/MADETOMMYBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "Made Tommy";
+  src: url("./fonts/MadeTommy/MADETOMMYRegular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "RB No 2.1a";
+  src: url("./fonts/RBNo2.1a/RBNo2.1a-BlackItalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "RB No 2.1a";
+  src: url("./fonts/RBNo2.1a/RBNo2.1a-BoldItalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Techead";
+  src: url("./fonts/Techead/Techead.otf") format("opentype");
 }

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "RB No 2.1a";
+  src: url("RBNo2.1a-BlackItalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "RB No 2.1a";
+  src: url("RBNo2.1a-BoldItalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: bold;
+}
